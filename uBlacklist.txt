@@ -3,3 +3,5 @@ name: 自用规则
 homepage: https://github.com/zenenznze/ublacklistrules.git
 ---
 *://*.csdn.net/*
+*://*.csdn.com/*
+*://*.cosjidi01.com/*
