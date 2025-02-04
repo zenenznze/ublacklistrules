@@ -5,3 +5,16 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://*.csdn.net/*
 *://*.csdn.com/*
 *://*.cosjidi01.com/*
+*://*.yfsp.tv/*
+*://*.nivod.cc/*
+*://*.mjwo.net/*
+*://*.mkvdo.com/*
+*://*.weiaitv.com/*
+*://*.haigui.tv/*
+*://*.kuhui2.com/*
+*://*.114yang.com/*
+*://*.2kju.com/*
+*://*.greencamer.com/*
+*://*.moduzy.com/*
+*://*.jiutv.cc/*
+*://*.4kvm.net/*
