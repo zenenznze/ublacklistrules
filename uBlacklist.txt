@@ -18,3 +18,10 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://*.moduzy.com/*
 *://*.jiutv.cc/*
 *://*.4kvm.net/*
+*://*.olevod.com/*
+*://*.kdy7.cc/*
+*://*.naifei1.org/*
+*://*.yiyuanji.com/*
+*://*.cgsjtyszfj.com/*
+*://*.baidu.com/*
+*://*.zhihu.com/*
