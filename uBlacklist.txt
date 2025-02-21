@@ -33,3 +33,6 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://*.liteapks.com/*
 *://*.platinmods.com/*
 *://*.sina.cn/*
+*://blog.csdn.net/*
+*://i.taijuwang.com/*
+*://www.luwanyi.com/*
