@@ -25,3 +25,11 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://*.cgsjtyszfj.com/*
 *://*.baidu.com/*
 *://*.zhihu.com/*
+*://*.zhonghuadiancang.com/*
+*://*.wangdailin.com/*
+*://*.modyolo.com/*
+*://*.apkmody.com/*
+*://*.getmodsapk.com/*
+*://*.liteapks.com/*
+*://*.platinmods.com/*
+*://*.sina.cn/*
