@@ -36,3 +36,8 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://blog.csdn.net/*
 *://i.taijuwang.com/*
 *://www.luwanyi.com/*
+*://www.rrdynb.com/*
+*://www.yunsgo.com/*
+*://www.chaospace.cc/*
+*://www.qxfun.com/*
+*://www.iizhi.cn/*
