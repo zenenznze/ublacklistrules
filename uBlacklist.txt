@@ -41,3 +41,4 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://www.chaospace.cc/*
 *://www.qxfun.com/*
 *://www.iizhi.cn/*
+*://*.360doc.cn/*
