@@ -42,3 +42,9 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://www.qxfun.com/*
 *://www.iizhi.cn/*
 *://*.360doc.cn/*
+*://cad.3d66.com/*
+*://ziliao.co188.com/*
+*://www.51wcad.com/*
+*://51wcad.com/*
+*://www.16pic.com/*
+*://m.lazystones.com/*
