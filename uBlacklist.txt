@@ -48,3 +48,7 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://51wcad.com/*
 *://www.16pic.com/*
 *://m.lazystones.com/*
+*://*.360doc.com/*
+*://*.google-mobile.cn/*
+*://*.sklib.cn/*
+*://*.gushiwen.cn/*
