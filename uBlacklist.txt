@@ -52,3 +52,5 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://*.4ksj.com/*
 *://*.zhihu.com/*
 *://*.baidu.com/*
+*://*.hupu.com/*
+*://*.csdn.net/*
