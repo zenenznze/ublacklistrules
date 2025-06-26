@@ -54,3 +54,16 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://*.baidu.com/*
 *://*.hupu.com/*
 *://*.csdn.net/*
+*://*.zaojiaxueshe.com/*
+*://*.doc88.com/*
+*://*.gczjtool.cn/*
+*://*.guifanku.com/*
+*://*.costku.com/*
+*://*.topthink.com/*
+*://*.fccost.com/*
+*://*.zjzj.net/*
+*://*.bzfxw.com/*
+*://*.doczj.com/*
+*://*.zaojiahome.com/*
+*://*.docin.com/*
+*://*.book118.com/*
