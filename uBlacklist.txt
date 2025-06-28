@@ -67,3 +67,4 @@ homepage: https://github.com/zenenznze/ublacklistrules.git
 *://*.zaojiahome.com/*
 *://*.docin.com/*
 *://*.book118.com/*
+*://*.zhihu.comtranslate/*
