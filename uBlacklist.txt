@@ -75,4 +75,4 @@ description: 精简于 2025-06-30（保留常用资料站，仅屏蔽广告/盗�
 *://*.9663.com/*
 *://*.tuxiaohu.com/*
 # 屏蔽腾讯云开发者平台的文章链接
-*://cloud.tencent.com/developer/article/*
+*://cloud.tencent.com/developer/*
