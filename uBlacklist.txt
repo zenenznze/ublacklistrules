@@ -73,3 +73,12 @@ description: 自用规则
 *://book118.com/*
 *://lzw.me/*
 *://lezhugame.com/*
+*://*.downcc.com/*
+*://*.cadztw.com/*
+*://*.zhihu.com/*
+*://*.jxdown.com/*
+*://*.co188.com/*
+*://*.csdn.net/*
+*://*.7273.com/*
+*://*.mianfeiziti.com/*
+*://*.cadzxw.com/*
