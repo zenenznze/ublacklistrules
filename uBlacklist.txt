@@ -1,6 +1,6 @@
 name: 自用规则
 homepage: https://github.com/zenenznze/ublacklistrules.git
-description: 精简于 2025-06-30（保留常用资料站，仅屏蔽广告/盗版/跳转站）
+description: 自用规则
 ---
 
 *://baidu.com/*
@@ -64,14 +64,12 @@ description: 精简于 2025-06-30（保留常用资料站，仅屏蔽广告/盗�
 *://guifanku.com/*
 *://900ppt.com/*
 *://co188.com/*
-*://*.gczjtool.cn/*
-*://*.doc88.com/*
-*://*.3dwhere.com/*
-*://*.aigei.com/*
-*://*.sanweimoxing.com/*
-*://*.makerworld.com.cn/*
-*://*.crealitycloud.cn/*
-*://*.book118.com/*
-*://*.csdn.net/*
-*://*.zhihu.com/*
-*://*.lzw.me/*
+*://doc88.com/*
+*://3dwhere.com/*
+*://aigei.com/*
+*://sanweimoxing.com/*
+*://makerworld.com.cn/*
+*://crealitycloud.cn/*
+*://book118.com/*
+*://lzw.me/*
+*://lezhugame.com/*
