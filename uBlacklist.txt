@@ -82,3 +82,17 @@ description: 自用规则
 *://*.7273.com/*
 *://*.mianfeiziti.com/*
 *://*.cadzxw.com/*
+
+*://*.wgbqr.com/*
+*://*.52pojie.cn/*
+*://*.cmsky.com/*
+*://*.yutu.cn/*
+*://*.infoq.cn/*
+*://*.7xiazai.com/*
+*://*.bootgraph.com/*
+*://*.ddooo.com/*
+*://*.hxsd.tv/*
+*://*.yxssp.com/*
+*://*.kxdw.com/*
+*://*.aichunjing.com/*
+*://*.houqitu.com/*
