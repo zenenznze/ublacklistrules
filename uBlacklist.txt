@@ -6,7 +6,6 @@ description: 自用规则
 *://baidu.com/*
 *://sina.cn/*
 *://hupu.com/*
-*://zhihu.com/*
 *://agedm88.com/*
 *://haigui.tv/*
 *://iyf.tv/*
@@ -47,10 +46,6 @@ description: 自用规则
 *://zhonghuadiancang.com/*
 *://3kgc.com/*
 *://waizi.org.cn/*
-*://csdn.net/*
-*://cadzxw.com/*
-*://cadztw.com/*
-*://downcc.com/*
 *://17font.com/*
 *://fontke.com/*
 *://gczjtool.cn/*
@@ -63,8 +58,6 @@ description: 自用规则
 *://sohu.com/*
 *://guifanku.com/*
 *://900ppt.com/*
-*://co188.com/*
-*://doc88.com/*
 *://3dwhere.com/*
 *://aigei.com/*
 *://sanweimoxing.com/*
@@ -75,14 +68,12 @@ description: 自用规则
 *://lezhugame.com/*
 *://*.downcc.com/*
 *://*.cadztw.com/*
-*://*.zhihu.com/*
 *://*.jxdown.com/*
 *://*.co188.com/*
 *://*.csdn.net/*
 *://*.7273.com/*
 *://*.mianfeiziti.com/*
 *://*.cadzxw.com/*
-
 *://*.wgbqr.com/*
 *://*.52pojie.cn/*
 *://*.cmsky.com/*
